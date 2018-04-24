@@ -8,6 +8,6 @@
 
 3、这样就可以直接Xcode9.2里真机调试iOS 11.3的手机系统了。
 
-附件：
-[iOS 11.0--iOS 11.3 DeviceSupport 下载](https://github.com/haogaoming123/iOS--DeviceSupport.git)
+文章：
+[Xcode调试更高版本的手机系统](https://www.jianshu.com/p/14d3f44ed816)
 
